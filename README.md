@@ -1,1 +1,1 @@
-# react-core-concepts-2
+# ema-john-simple-2
